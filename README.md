@@ -66,23 +66,8 @@ Course-Recommendation-System/
    streamlit run main.py
    ```
 
-3. **Navigate to the local URL (http://localhost:8501)** to use the web app.
 
-## Docker Hub 🐳
-
-To directly use the project from Docker Hub
-
-1. **Pull the pre-built Docker image**:
-   ```bash
-   docker pull ganeshpinnamaneni/course-recommendation-system:latest
-   ```
-
-2. **Run the Docker container**:
-   ```bash
-   docker run -p 8501:8501 ganeshpinnamaneni/course-recommendation-system:latest
-   ```
-
-3. **Access the web app** at [http://localhost:8501](http://localhost:8501).
+3. **Access the web app** at https://personnal-course-recommendation-aeip9t2blxb94md9zt65ds.streamlit.app/.
 
 
 ## Contributing 🤝
@@ -95,12 +80,6 @@ We welcome contributions to improve the Course Recommendation System. Here's how
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a Pull Request.
 
-## Contact 📧
-
-For any questions or feedback, feel free to reach out:
-
-- **Ganesh Chowdhary P** – pinnamaneniganesh24@gmail.com
-- GitHub: [Ganesh Chowdhary P](https://github.com/ganesh2409)
 ```
 Made with ❤️ ( ͡• ͜ʖ ͡• ) Follow for more  ... :) 
 ``` 
